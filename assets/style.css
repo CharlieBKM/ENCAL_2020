@@ -1,0 +1,73 @@
+
+.banner {
+  padding-top: 2%;
+  font-style: italic;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu {
+  margin-left: auto;
+  margin-right: auto;
+  width: 67%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.era-slider {
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.app-page {
+  height: fit-content;
+}
+
+.home {
+  padding: 5%;
+}
+
+.home a:link {
+  color:gray;
+}
+
+.home a:visited {
+  color: black;
+}
+
+body{   
+        color:#13322B;
+        font-family: "Montserrat", Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        text-align:justify;
+    
+
+    }
+
+ 
+Button 
+{
+  height: 38px;
+  padding: 0 35px;
+  background: #285C4D;
+  color:#D4C19C;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 9px;
+  border: 1px solid #bbb;
+  cursor: pointer;
+  object-position: center;
+  
+}
+
+Button:hover{
+    text-decoration: underline;;
+}
+
+
+
+

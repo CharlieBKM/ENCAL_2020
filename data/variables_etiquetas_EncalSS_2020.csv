@@ -1,0 +1,283 @@
+﻿Valor,codigo,Etiqueta,pregunta
+nivel_x,1,Primer nivel,
+nivel_x,2,Segundo nivel,
+nivel_x,3,Tercer nivel,
+sexo,1,Mujer,
+sexo,2,Hombre,
+sat3,1,Muy satisfecho(a),"En general, ¿qué tan satisfecho(a) o insatisfecho(a) está con la atención que recibió en la unidad médica en su última visita durante la actual contingencia COVID?"
+sat3,2,Satisfecho(a),"En general, ¿qué tan satisfecho(a) o insatisfecho(a) está con la atención que recibió en la unidad médica en su última visita durante la actual contingencia COVID?"
+sat3,3,Ni satisfecho(a) ni insatisfecho(a),"En general, ¿qué tan satisfecho(a) o insatisfecho(a) está con la atención que recibió en la unidad médica en su última visita durante la actual contingencia COVID?"
+sat3,4,Insatisfecho(a),"En general, ¿qué tan satisfecho(a) o insatisfecho(a) está con la atención que recibió en la unidad médica en su última visita durante la actual contingencia COVID?"
+sat3,5,Muy insatisfecho(a),"En general, ¿qué tan satisfecho(a) o insatisfecho(a) está con la atención que recibió en la unidad médica en su última visita durante la actual contingencia COVID?"
+sat3,99,No sé/No quiero responder,"En general, ¿qué tan satisfecho(a) o insatisfecho(a) está con la atención que recibió en la unidad médica en su última visita durante la actual contingencia COVID?"
+preven,1,Sí acudí a PrevenIMSS,"Si en la unidad médica a la que asistió hay módulo PrevenIMSS, ¿acudió a solicitar atención a dicho servicio en su última visita a la unidad (además de su cita con su médico)?"
+preven,2,No acudí a PrevenIMSS,"Si en la unidad médica a la que asistió hay módulo PrevenIMSS, ¿acudió a solicitar atención a dicho servicio en su última visita a la unidad (además de su cita con su médico)?"
+preven,3,No hay módulo de PrevenIMSS,"Si en la unidad médica a la que asistió hay módulo PrevenIMSS, ¿acudió a solicitar atención a dicho servicio en su última visita a la unidad (además de su cita con su médico)?"
+preven,99,No sé/No quiero responder,"Si en la unidad médica a la que asistió hay módulo PrevenIMSS, ¿acudió a solicitar atención a dicho servicio en su última visita a la unidad (además de su cita con su médico)?"
+preven_cal,1,Excelente,"En general, ¿cómo califica la calidad de la atención que recibió en el módulo de PrevenIMSS?"
+preven_cal,2,Buena,"En general, ¿cómo califica la calidad de la atención que recibió en el módulo de PrevenIMSS?"
+preven_cal,3,Regular,"En general, ¿cómo califica la calidad de la atención que recibió en el módulo de PrevenIMSS?"
+preven_cal,4,Mala,"En general, ¿cómo califica la calidad de la atención que recibió en el módulo de PrevenIMSS?"
+preven_cal,5,Pésima,"En general, ¿cómo califica la calidad de la atención que recibió en el módulo de PrevenIMSS?"
+preven_cal,99,No sé/No quiero responder,"En general, ¿cómo califica la calidad de la atención que recibió en el módulo de PrevenIMSS?"
+citapre,1,Sí,¿Programó su consulta mediante cita?
+citapre,2,No,¿Programó su consulta mediante cita?
+citapre,99,No sé/No quiero responder,¿Programó su consulta mediante cita?
+tempcitacalif,1,Muy corto,¿Cómo considera el tiempo de espera a partir del horario de su cita programada hasta que recibió consulta?
+tempcitacalif,2,Corto,¿Cómo considera el tiempo de espera a partir del horario de su cita programada hasta que recibió consulta?
+tempcitacalif,3,Adecuado,¿Cómo considera el tiempo de espera a partir del horario de su cita programada hasta que recibió consulta?
+tempcitacalif,4,Largo,¿Cómo considera el tiempo de espera a partir del horario de su cita programada hasta que recibió consulta?
+tempcitacalif,5,Muy largo,¿Cómo considera el tiempo de espera a partir del horario de su cita programada hasta que recibió consulta?
+tempcitacalif,99,No sé/No quiero responder,¿Cómo considera el tiempo de espera a partir del horario de su cita programada hasta que recibió consulta?
+tempcitacalif_2,1,Muy corto,¿Cómo considera el tiempo de espera desde que  entregó su cartilla de salud a la asistente médica hasta que recibió consulta?
+tempcitacalif_2,2,Corto,¿Cómo considera el tiempo de espera desde que  entregó su cartilla de salud a la asistente médica hasta que recibió consulta?
+tempcitacalif_2,3,Adecuado,¿Cómo considera el tiempo de espera desde que  entregó su cartilla de salud a la asistente médica hasta que recibió consulta?
+tempcitacalif_2,4,Largo,¿Cómo considera el tiempo de espera desde que  entregó su cartilla de salud a la asistente médica hasta que recibió consulta?
+tempcitacalif_2,5,Muy largo,¿Cómo considera el tiempo de espera desde que  entregó su cartilla de salud a la asistente médica hasta que recibió consulta?
+tempcitacalif_2,99,No sé/No quiero responder,¿Cómo considera el tiempo de espera desde que  entregó su cartilla de salud a la asistente médica hasta que recibió consulta?
+infoenferm,1,Sí,¿El(la) médico(a) que le atendió le explicó claramente cuál era su estado de salud o padecimiento actual?
+infoenferm,2,No,¿El(la) médico(a) que le atendió le explicó claramente cuál era su estado de salud o padecimiento actual?
+infoenferm,97,Ya conocía mi estado o padecimiento actual,¿El(la) médico(a) que le atendió le explicó claramente cuál era su estado de salud o padecimiento actual?
+infoenferm,99,No sé/No quiero responder,¿El(la) médico(a) que le atendió le explicó claramente cuál era su estado de salud o padecimiento actual?
+btratou,1,Excelente,"En general, ¿cómo califica el trato que recibió en la unidad médica en su última visita?"
+btratou,2,Bueno,"En general, ¿cómo califica el trato que recibió en la unidad médica en su última visita?"
+btratou,3,Regular,"En general, ¿cómo califica el trato que recibió en la unidad médica en su última visita?"
+btratou,4,Malo,"En general, ¿cómo califica el trato que recibió en la unidad médica en su última visita?"
+btratou,5,Pésimo,"En general, ¿cómo califica el trato que recibió en la unidad médica en su última visita?"
+btratou,99,No sé/No quiero responder,"En general, ¿cómo califica el trato que recibió en la unidad médica en su última visita?"
+confmed_e,1,Sí,¿Considera que el(la) médico(a) está bien capacitado(a) para atender a un paciente con una situación como la de usted?
+confmed_e,2,No,¿Considera que el(la) médico(a) está bien capacitado(a) para atender a un paciente con una situación como la de usted?
+confmed_e,99,No sé/No quiero responder,¿Considera que el(la) médico(a) está bien capacitado(a) para atender a un paciente con una situación como la de usted?
+totmed,1,Todos,"De las medicinas que acudió a surtir, ¿cuántos medicamentos le dieron en la farmacia de la unidad?"
+totmed,2,Algunos,"De las medicinas que acudió a surtir, ¿cuántos medicamentos le dieron en la farmacia de la unidad?"
+totmed,3,Ninguno,"De las medicinas que acudió a surtir, ¿cuántos medicamentos le dieron en la farmacia de la unidad?"
+totmed,99,No sé/No quiero responder,"De las medicinas que acudió a surtir, ¿cuántos medicamentos le dieron en la farmacia de la unidad?"
+covid_diag_d,1,Sí,¿Usted ha sido diagnosticado con Covid-19?
+covid_diag_d,2,No,¿Usted ha sido diagnosticado con Covid-19?
+covid_diag_d,99,No sé/No quiero responder,¿Usted ha sido diagnosticado con Covid-19?
+covid_diagb_h,1,Sí,¿Fue usted internado en un hospital del IMSS?
+covid_diagb_h,2,No,¿Fue usted internado en un hospital del IMSS?
+covid_diagb_h,99,No sé/No quiero responder,¿Fue usted internado en un hospital del IMSS?
+covid_diag_fd,1,Sí,"En su hogar, ¿algún familiar ha sido diagnosticado con Covid-19?"
+covid_diag_fd,2,No,"En su hogar, ¿algún familiar ha sido diagnosticado con Covid-19?"
+covid_diag_fd,99,No sé/No quiero responder,"En su hogar, ¿algún familiar ha sido diagnosticado con Covid-19?"
+covid_diagb_fh,1,Sí,¿Fue su familiar internado en un hospital del IMSS?
+covid_diagb_fh,2,No,¿Fue su familiar internado en un hospital del IMSS?
+covid_diagb_fh,99,No sé/No quiero responder,¿Fue su familiar internado en un hospital del IMSS?
+covid_def,1,Sí,"En su hogar, ¿ha fallecido algún familiar por Covid-19?"
+covid_def,2,No,"En su hogar, ¿ha fallecido algún familiar por Covid-19?"
+covid_def,99,No sé/No quiero responder,"En su hogar, ¿ha fallecido algún familiar por Covid-19?"
+covid_cron,1,"Sí, he acudido más","En caso de tener una enfermedad crónica (por ejemplo diabetes o hipertensión) y como medida de prevención por el COVID, ¿ha cambiado la frecuencia de sus visitas a su UMF?"
+covid_cron,2,"Sí, he acudido menos","En caso de tener una enfermedad crónica (por ejemplo diabetes o hipertensión) y como medida de prevención por el COVID, ¿ha cambiado la frecuencia de sus visitas a su UMF?"
+covid_cron,3,No ha cambiado,"En caso de tener una enfermedad crónica (por ejemplo diabetes o hipertensión) y como medida de prevención por el COVID, ¿ha cambiado la frecuencia de sus visitas a su UMF?"
+covid_cron,4,No tengo una enfermedad crónica,"En caso de tener una enfermedad crónica (por ejemplo diabetes o hipertensión) y como medida de prevención por el COVID, ¿ha cambiado la frecuencia de sus visitas a su UMF?"
+covid_cron,99,No sé/No quiero responder,"En caso de tener una enfermedad crónica (por ejemplo diabetes o hipertensión) y como medida de prevención por el COVID, ¿ha cambiado la frecuencia de sus visitas a su UMF?"
+covid_telem,1,Muy interesado(a),¿Qué tan interesado(a) estaría en recibir atención con su médico(a) para su padecimiento crónico a través de video consulta?
+covid_telem,2,Interesado(a),¿Qué tan interesado(a) estaría en recibir atención con su médico(a) para su padecimiento crónico a través de video consulta?
+covid_telem,3,Me es indiferente,¿Qué tan interesado(a) estaría en recibir atención con su médico(a) para su padecimiento crónico a través de video consulta?
+covid_telem,4,Poco Interesado(a),¿Qué tan interesado(a) estaría en recibir atención con su médico(a) para su padecimiento crónico a través de video consulta?
+covid_telem,5,Nada interesado(a),¿Qué tan interesado(a) estaría en recibir atención con su médico(a) para su padecimiento crónico a través de video consulta?
+covid_telem,99,No sé/No quiero responder,¿Qué tan interesado(a) estaría en recibir atención con su médico(a) para su padecimiento crónico a través de video consulta?
+covid_rr,1,Sí,"Durante la contingencia COVID, ¿le han dado Receta Resurtible?"
+covid_rr,2,No,"Durante la contingencia COVID, ¿le han dado Receta Resurtible?"
+covid_rr,99,No sé/No quiero responder,"Durante la contingencia COVID, ¿le han dado Receta Resurtible?"
+covid_rr2,1,Sí,"Antes de que se venciera su Receta Resurtible, ¿tuvo que acudir a consulta con su médico familiar?"
+covid_rr2,2,No,"Antes de que se venciera su Receta Resurtible, ¿tuvo que acudir a consulta con su médico familiar?"
+covid_rr2,3,"No aplica, aún no se vence mi Receta Resurtible","Antes de que se venciera su Receta Resurtible, ¿tuvo que acudir a consulta con su médico familiar?"
+covid_rr2,99,No sé/No quiero responder,"Antes de que se venciera su Receta Resurtible, ¿tuvo que acudir a consulta con su médico familiar?"
+covid_esp,1,Sí fue cancelada,"En caso de que haya tenido alguna cita programada en consulta externa de especialidades, ¿fue cancelada su cita por la contingencia COVID?"
+covid_esp,2,No fue cancelada,"En caso de que haya tenido alguna cita programada en consulta externa de especialidades, ¿fue cancelada su cita por la contingencia COVID?"
+covid_esp,3,No tuve cita programada,"En caso de que haya tenido alguna cita programada en consulta externa de especialidades, ¿fue cancelada su cita por la contingencia COVID?"
+covid_esp,99,No sé/No quiero responder,"En caso de que haya tenido alguna cita programada en consulta externa de especialidades, ¿fue cancelada su cita por la contingencia COVID?"
+covid_ciru,1,Sí fue suspendida,"En caso de que haya tenido una cirugía programada, ¿se suspendió su cirugía por la contingencia COVID?"
+covid_ciru,2,No fue suspendida,"En caso de que haya tenido una cirugía programada, ¿se suspendió su cirugía por la contingencia COVID?"
+covid_ciru,3,No tuve cirugía programada,"En caso de que haya tenido una cirugía programada, ¿se suspendió su cirugía por la contingencia COVID?"
+covid_ciru,99,No sé/No quiero responder,"En caso de que haya tenido una cirugía programada, ¿se suspendió su cirugía por la contingencia COVID?"
+covid_sd,1,Sí,"Durante la contingencia COVID, ¿ha usado los servicios digitales del IMSS?"
+covid_sd,2,No,"Durante la contingencia COVID, ¿ha usado los servicios digitales del IMSS?"
+covid_sd,99,No sé/No quiero responder,"Durante la contingencia COVID, ¿ha usado los servicios digitales del IMSS?"
+covid_calif,1,Excelente,"En general, ¿cómo califica la calidad de los servicios digitales del IMSS que utilizó durante la contingencia COVID?"
+covid_calif,2,Buena,"En general, ¿cómo califica la calidad de los servicios digitales del IMSS que utilizó durante la contingencia COVID?"
+covid_calif,3,Regular,"En general, ¿cómo califica la calidad de los servicios digitales del IMSS que utilizó durante la contingencia COVID?"
+covid_calif,4,Mala,"En general, ¿cómo califica la calidad de los servicios digitales del IMSS que utilizó durante la contingencia COVID?"
+covid_calif,5,Pésima,"En general, ¿cómo califica la calidad de los servicios digitales del IMSS que utilizó durante la contingencia COVID?"
+covid_calif,99,No sé/No quiero responder,"En general, ¿cómo califica la calidad de los servicios digitales del IMSS que utilizó durante la contingencia COVID?"
+calfinm_a,1,1 Pésimo,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,2,2,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,3,3,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,4,4,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,5,5,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,6,6,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,7,7,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,8,8,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,9,9,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,10,10 Excelente,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_a,99,No sé/No quiero responder,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?"
+calfinm_b,1,1 Pésimo,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,2,2,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,3,3,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,4,4,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,5,5,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,6,6,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,7,7,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,8,8,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,9,9,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,10,10 Excelente,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_b,99,No sé/No quiero responder,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?"
+calfinm_c,1,1 Pésimo,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,2,2,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,3,3,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,4,4,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,5,5,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,6,6,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,7,7,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,8,8,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,9,9,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,10,10 Excelente,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_c,99,No sé/No quiero responder,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?"
+calfinm_d,1,1 Pésimo,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,2,2,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,3,3,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,4,4,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,5,5,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,6,6,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,7,7,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,8,8,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,9,9,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,10,10 Excelente,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_d,99,No sé/No quiero responder,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?"
+calfinm_e,1,1 Pésimo,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,2,2,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,3,3,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,4,4,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,5,5,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,6,6,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,7,7,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,8,8,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,9,9,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,10,10 Excelente,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_e,99,No sé/No quiero responder,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?"
+calfinm_g,1,1 Pésimo,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,2,2,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,3,3,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,4,4,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,5,5,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,6,6,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,7,7,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,8,8,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,9,9,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,10,10 Excelente,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_g,99,No sé/No quiero responder,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?"
+calfinm_h,1,1 Pésimo,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,2,2,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,3,3,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,4,4,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,5,5,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,6,6,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,7,7,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,8,8,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,9,9,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,10,10 Excelente,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,97,No aplica,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+calfinm_h,99,No sé/No quiero responder,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?"
+limp2,1,Sí,"¿Los baños contaban con jabón, papel higiénico y agua?"
+limp2,2,No,"¿Los baños contaban con jabón, papel higiénico y agua?"
+limp2,99,No sé/No quiero responder,"¿Los baños contaban con jabón, papel higiénico y agua?"
+e_protec,1,Sí,¿El personal portaba el equipo de protección?
+e_protec,2,No,¿El personal portaba el equipo de protección?
+e_protec,99,No sé/No quiero responder,¿El personal portaba el equipo de protección?
+cal1,1,Excelente,"En general, ¿cómo califica la calidad de la atención que recibió en su última visita a la unidad médica, en septiembre de 2020, durante la actual contingencia COVID?"
+cal1,2,Buena,"En general, ¿cómo califica la calidad de la atención que recibió en su última visita a la unidad médica, en septiembre de 2020, durante la actual contingencia COVID?"
+cal1,3,Regular,"En general, ¿cómo califica la calidad de la atención que recibió en su última visita a la unidad médica, en septiembre de 2020, durante la actual contingencia COVID?"
+cal1,4,Mala,"En general, ¿cómo califica la calidad de la atención que recibió en su última visita a la unidad médica, en septiembre de 2020, durante la actual contingencia COVID?"
+cal1,5,Pésima,"En general, ¿cómo califica la calidad de la atención que recibió en su última visita a la unidad médica, en septiembre de 2020, durante la actual contingencia COVID?"
+cal1,99,No sé/No quiero responder,"En general, ¿cómo califica la calidad de la atención que recibió en su última visita a la unidad médica, en septiembre de 2020, durante la actual contingencia COVID?"
+deleg,1,Aguascalientes,
+deleg,2,Baja California,
+deleg,3,Baja California Sur,
+deleg,4,Campeche,
+deleg,5,Chiapas,
+deleg,6,Chihuahua,
+deleg,7,Coahuila,
+deleg,8,Colima,
+deleg,9,CDMX Norte,
+deleg,10,CDMX Sur,
+deleg,11,Durango,
+deleg,12,México Oriente,
+deleg,13,México Poniente,
+deleg,14,Guanajuato,
+deleg,15,Guerrero,
+deleg,16,Hidalgo,
+deleg,17,Jalisco,
+deleg,18,Michoacán,
+deleg,19,Morelos,
+deleg,20,Nayarit,
+deleg,21,Nuevo León,
+deleg,22,Oaxaca,
+deleg,23,Puebla,
+deleg,24,Querétaro,
+deleg,25,Quintana Roo,
+deleg,26,San Luis Potosí,
+deleg,27,Sinaloa,
+deleg,28,Sonora,
+deleg,29,Tabasco,
+deleg,30,Tamaulipas,
+deleg,31,Tlaxcala,
+deleg,32,Veracruz Norte,
+deleg,33,Veracruz Sur,
+deleg,34,Yucatán,
+deleg,35,Zacatecas,
+regiones,1,Noroeste,
+regiones,2,Noreste,
+regiones,3,Oeste,
+regiones,4,Este,
+regiones,5,Centro Norte,
+regiones,6,Centro Sur,
+regiones,7,Sur,
+regiones_x,1,Noroeste,
+regiones_x,2,Noreste,
+regiones_x,3,Oeste,
+regiones_x,4,Este,
+regiones_x,5,Centro Norte,
+regiones_x,6,Centro Sur,
+regiones_x,7,Sur,
+regiones_x,8,Tercer nivel,
+edad_x,1,18-25,
+edad_x,2,26-34,
+edad_x,3,35-44,
+edad_x,4,45-54,
+edad_x,5,55-64,
+edad_x,6,65 y más,
+tempcita_x,1,1 a 15 minutos,¿Cuánto tiempo esperó a partir del horario de su cita programada hasta que recibió consulta? (minutos)
+tempcita_x,2,16 a 30 minutos,¿Cuánto tiempo esperó a partir del horario de su cita programada hasta que recibió consulta? (minutos)
+tempcita_x,3,31 a 45 minutos,¿Cuánto tiempo esperó a partir del horario de su cita programada hasta que recibió consulta? (minutos)
+tempcita_x,4,46 a 60 minutos,¿Cuánto tiempo esperó a partir del horario de su cita programada hasta que recibió consulta? (minutos)
+tempcita_x,5,Más de 60 minutos,¿Cuánto tiempo esperó a partir del horario de su cita programada hasta que recibió consulta? (minutos)
+tempcita_x,9999999,No sabe/No responde,¿Cuánto tiempo esperó a partir del horario de su cita programada hasta que recibió consulta? (minutos)
+tempcita_2_x,1,1 a 15 minutos,¿Cuánto tiempo esperó desde que entregó su cartilla de salud a la asistente médica hasta que recibió consulta? (minutos)
+tempcita_2_x,2,16 a 30 minutos,¿Cuánto tiempo esperó desde que entregó su cartilla de salud a la asistente médica hasta que recibió consulta? (minutos)
+tempcita_2_x,3,31 a 45 minutos,¿Cuánto tiempo esperó desde que entregó su cartilla de salud a la asistente médica hasta que recibió consulta? (minutos)
+tempcita_2_x,4,46 a 60 minutos,¿Cuánto tiempo esperó desde que entregó su cartilla de salud a la asistente médica hasta que recibió consulta? (minutos)
+tempcita_2_x,5,Más de 60 minutos,¿Cuánto tiempo esperó desde que entregó su cartilla de salud a la asistente médica hasta que recibió consulta? (minutos)
+tempcita_2_x,9999999,No sabe/No responde,¿Cuánto tiempo esperó desde que entregó su cartilla de salud a la asistente médica hasta que recibió consulta? (minutos)
+probsal_xx,1,Problemas respiratorios,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,2,Enfermedades crónicas,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,3,Embarazo,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,4,Salud mental,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,5,Acciones preventivas,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,6,Sospecha COVID o COVID,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,7,Trámite de incapacidad por COVID o sospecha de COVID,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,8,Trámite de incapacidad por otro padecimiento,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,9,Diabetes,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,10,Hipertensión/Enfermedades del corazón,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,11,Enfermedades del sistema digestivo/Dolor abdominal,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,12,"Revisión mensual, bimestral o trimestral",¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,13,Medicamento,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,14,Lesiones físicas/Lesión física por accidente,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,15,Ginecología,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,998,Otro,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+probsal_xx,999,No sé/No quiero responder,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?
+regiones_xx,1,Norte,
+regiones_xx,2,Centro,
+regiones_xx,3,Occidente,
+regiones_xx,4,Sureste,

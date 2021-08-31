@@ -1,0 +1,37 @@
+﻿variable,pregunta,seccion
+sat3,"En general, ¿qué tan satisfecho(a) o insatisfecho(a) está con la atención que recibió en la unidad médica en su última visita durante la actual contingencia COVID?",Satisfacción y Atención
+probsal_xx,¿Cuál fue el motivo o problema de salud por el que acudió a la unidad médica en su última visita?,Satisfacción y Atención
+preven,"Si en la unidad médica a la que asistió hay módulo PrevenIMSS, ¿acudió a solicitar atención a dicho servicio en su última visita a la unidad (además de su cita con su médico)?",Medicina preventiva
+preven_cal,"En general, ¿cómo califica la calidad de la atención que recibió en el módulo de PrevenIMSS?",Medicina preventiva
+citapre,¿Programó su consulta mediante cita?,Tiempo de espera
+tempcita_x,¿Cuánto tiempo esperó a partir del horario de su cita programada hasta que recibió consulta? (minutos),Tiempo de espera
+tempcitacalif,¿Cómo considera el tiempo de espera a partir del horario de su cita programada hasta que recibió consulta?,Tiempo de espera
+tempcita_2_x,¿Cuánto tiempo esperó desde que entregó su cartilla de salud a la asistente médica hasta que recibió consulta? (minutos),Tiempo de espera
+tempcitacalif_2,¿Cómo considera el tiempo de espera desde que  entregó su cartilla de salud a la asistente médica hasta que recibió consulta?,Tiempo de espera
+infoenferm,¿El(la) médico(a) que le atendió le explicó claramente cuál era su estado de salud o padecimiento actual?,Trato del personal
+btratou,"En general, ¿cómo califica el trato que recibió en la unidad médica en su última visita?",Trato del personal
+confmed_e,¿Considera que el(la) médico(a) está bien capacitado(a) para atender a un paciente con una situación como la de usted?,Trato del personal
+totmed,"De las medicinas que acudió a surtir, ¿cuántos medicamentos le dieron en la farmacia de la unidad?",Farmacia
+covid_diag_d,¿Usted ha sido diagnosticado con Covid-19?,COVID-19
+covid_diagb_h,¿Fue usted internado en un hospital del IMSS?,COVID-19
+covid_diag_fd,"En su hogar, ¿algún familiar ha sido diagnosticado con Covid-19?",COVID-19
+covid_diagb_fh,¿Fue su familiar internado en un hospital del IMSS?,COVID-19
+covid_def,"En su hogar, ¿ha fallecido algún familiar por Covid-19?",COVID-19
+covid_cron,"En caso de tener una enfermedad crónica (por ejemplo diabetes o hipertensión) y como medida de prevención por el COVID, ¿ha cambiado la frecuencia de sus visitas a su UMF?",COVID-19
+covid_telem,¿Qué tan interesado(a) estaría en recibir atención con su médico(a) para su padecimiento crónico a través de video consulta?,COVID-19
+covid_rr,"Durante la contingencia COVID, ¿le han dado Receta Resurtible?",COVID-19
+covid_rr2,"Antes de que se venciera su Receta Resurtible, ¿tuvo que acudir a consulta con su médico familiar?",COVID-19
+covid_esp,"En caso de que haya tenido alguna cita programada en consulta externa de especialidades, ¿fue cancelada su cita por la contingencia COVID?",COVID-19
+covid_ciru,"En caso de que haya tenido una cirugía programada, ¿se suspendió su cirugía por la contingencia COVID?",COVID-19
+covid_sd,"Durante la contingencia COVID, ¿ha usado los servicios digitales del IMSS?",COVID-19
+covid_calif,"En general, ¿cómo califica la calidad de los servicios digitales del IMSS que utilizó durante la contingencia COVID?",COVID-19
+calfinm_a,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría los filtros COVID-19 establecidos para el ingreso a las instalaciones médicas?",Condiciones de las instalaciones en la contigencia COVID-19
+calfinm_b,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de la unidad médica?",Condiciones de las instalaciones en la contigencia COVID-19
+calfinm_c,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la ventilación de la sala de espera?",Condiciones de las instalaciones en la contigencia COVID-19
+calfinm_d,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el espacio de la sala de espera para guardar la sana distancia?",Condiciones de las instalaciones en la contigencia COVID-19
+calfinm_e,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza del consultorio?",Condiciones de las instalaciones en la contigencia COVID-19
+calfinm_g,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría el nivel de seguridad al acudir a las instalaciones del IMSS?",Condiciones de las instalaciones en la contigencia COVID-19
+calfinm_h,"En una escala del 1 al 10, donde 1 es Pésimo y 10 Excelente, ¿cómo calificaría la limpieza de los baños ?",Condiciones de las instalaciones en la contigencia COVID-19
+limp2,"¿Los baños contaban con jabón, papel higiénico y agua?",Condiciones de las instalaciones en la contigencia COVID-19
+e_protec,¿El personal portaba el equipo de protección?,Condiciones de las instalaciones en la contigencia COVID-19
+cal1,"En general, ¿cómo califica la calidad de la atención que recibió en su última visita a la unidad médica, en septiembre de 2020, durante la actual contingencia COVID?",Calidad y Satisfacción de la atención
