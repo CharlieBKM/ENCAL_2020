@@ -65,7 +65,7 @@ reslayout = html.Div([
     html.Div(id='container', children=[]),
     html.Div(html.Button(html.A("Ir Arriba",
                                 style={'color':'#D4C19C', 'font-family': 'Montserrat'},
-                                href='#add-chart'),id='the-end')),
+                                href='#add-chart'),id='the-end'), style={'float': 'right'}),
     
 
 ], className = 'app-page'),
